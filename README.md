@@ -18,7 +18,7 @@ You are welcome to contribute. [Here](https://github.com/web-dave/web-dave-compo
 
 ### ToDo:
 
-- Tests (If this bekomes productive)
+- Tests (If this becomes productive)
 - Datepicker
 - Alerts
 - Showcase
